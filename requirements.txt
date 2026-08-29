@@ -1,0 +1,2 @@
+# Direct dependency used by sales_analysis.py
+pandas==3.0.5
