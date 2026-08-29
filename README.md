@@ -219,15 +219,15 @@ The screenshots below show the program executing successfully in the Linux termi
 
 ### Dataset Overview
 
-![Dataset overview](screenshots/analysis_overview.png)
+![Dataset overview](screenshots/Screenshots_1.png)
 
 ### Missing Values and Sales Metrics
 
-![Sales metrics](screenshots/analysis_metrics.png)
+![Sales metrics](screenshots/Screenshot_2.png)
 
 ### Numerical Summary and Completion
 
-![Analysis summary](screenshots/analysis_summary.png)
+![Analysis summary](screenshots/Screenshot_3.png)
 
 ## Testing Evidence
 
