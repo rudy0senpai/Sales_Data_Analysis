@@ -219,7 +219,7 @@ The screenshots below show the program executing successfully in the Linux termi
 
 ### Dataset Overview
 
-![Dataset overview](screenshots/Screenshots_1.png)
+![Dataset overview](screenshots/Screenshot_1.png)
 
 ### Missing Values and Sales Metrics
 
